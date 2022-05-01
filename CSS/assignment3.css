@@ -1,0 +1,146 @@
+
+#circle {
+    height: 19px;
+    width: 319px;
+    background: papayawhip;
+    left: 1%;
+    top: 11%;
+    position: fixed;
+    z-index: -10;
+}
+
+#circle2 {
+    height: 20px;
+    width: 520px;
+    background: rgb(217, 236, 173);
+    left: 75%;
+    top: 0%;
+    position: fixed;
+    z-index: -1;
+}
+
+#circle3 {
+    height: 90px;
+    width: 390px;
+    background: rgb(180, 187, 245);
+    left: 4%;
+    top: 83%;
+    position: fixed;
+    z-index: -2;
+}
+#circle4{
+    height: 99px;
+    width: 399px;
+    background: papayawhip;
+    left: 45%;
+    top: 60%;
+    position: fixed;
+    z-index: -3;
+    margin-bottom: 300px;
+}
+
+#circle5{
+    height: 20px;
+    width: 220px;
+    background: rgb(138, 174, 240);
+    left: 91%;
+    top: 68%;
+    position: fixed;
+    z-index: -3;
+    margin-bottom: 300px;
+}
+
+h2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: cornflowerblue;
+    position: absolute;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#header2-1{
+    margin-left: 4.5%;
+    margin-right: 10px;
+    margin-top: 12px;
+    margin-bottom: 43px;
+    margin-top: -5px;
+}
+body {
+    background-image: linear-gradient(to right, pink, papayawhip);
+}
+a{
+    color: cornflowerblue;
+  font-style: italic;
+}
+p {
+    
+    margin-right: 10px;
+    color: rgb(32, 57, 141);
+    font-weight: normal;
+    text-transform: none; 
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-size: small;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+#p1{
+    position: relative;
+    top: 14px;
+    left: 5%;
+    width: 90%;
+}
+#p2{
+    position: relative;
+    top: 14px;
+    left: 5%;
+    width: 90%;
+}
+
+.img1{
+    position: relative;
+    left: 5%;
+
+}
+img{
+    border: 7px  rgb(217, 236, 173);
+    border-style: solid;
+}
+
+#p3{
+    position: relative;
+    top: 14px;
+    left: 5%;
+    width: 90%;
+}
+
+.img2{
+    position: relative;
+    left: 5%;
+
+}
+#p4{
+    position: relative;
+    top: 14px;
+    left: 5%;
+    width: 90%;
+}
+.img3{
+    position: relative;
+    left: 5%;
+
+}
+#p5{
+    position: relative;
+    top: 14px;
+    left: 5%;
+    width: 90%;
+}
+.img4{
+    position: relative;
+    left: 5%;
+
+}

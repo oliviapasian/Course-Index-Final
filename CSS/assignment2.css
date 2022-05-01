@@ -1,0 +1,122 @@
+
+#circle {
+    height: 319px;
+    width: 319px;
+    background: papayawhip;
+    left: 1%;
+    top: 11%;
+    position: fixed;
+    z-index: -10;
+}
+
+#circle2 {
+    height: 520px;
+    width: 520px;
+    background: rgb(217, 236, 173);
+    left: 58%;
+    top: -10%;
+    position: fixed;
+    z-index: -1;
+}
+
+#circle3 {
+    height: 390px;
+    width: 390px;
+    background: rgb(180, 187, 245);
+    left: 4%;
+    top: 83%;
+    position: fixed;
+    z-index: -2;
+}
+#circle4{
+    height: 399px;
+    width: 399px;
+    background: papayawhip;
+    left: 45%;
+    top: 60%;
+    position: fixed;
+    z-index: -3;
+    margin-bottom: 300px;
+}
+
+#circle5{
+    height: 220px;
+    width: 220px;
+    background: rgb(138, 174, 240);
+    left: 91%;
+    top: 68%;
+    position: fixed;
+    z-index: -3;
+    margin-bottom: 300px;
+}
+
+h2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: cornflowerblue;
+    position: absolute;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.dailysketches{
+    
+    position: static;
+    margin: 10px;
+    height: 500px;
+    width: 500px;
+    left: 5%;
+
+    
+}
+.sketchimages {
+    width: 1000px;
+    height: 1000px;
+    position: static;
+    margin-left: 5px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+#h2-1{
+    
+    margin-left: 4%;
+    margin-right: 10px;
+    margin-top: 12px;
+    margin-bottom: 30px;
+    margin-top: -5px;
+}
+
+
+
+p {
+    margin-left: 4.5%;
+    color: rgb(32, 57, 141);
+    font-weight: normal;
+    text-transform: none; 
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-size: small;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 90%;
+
+  
+}
+strong {
+    font-weight: normal;
+}
+body {
+    background-image: linear-gradient(to right, pink, papayawhip);
+}
+
+#textchunk1 {
+    top: 184px;
+    left: 20px;
+    position: absolute;
+    width: 450px;
+}
+

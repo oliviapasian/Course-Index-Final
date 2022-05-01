@@ -1,0 +1,163 @@
+#circle {
+    height: 0px;
+    width: 0px;
+    border-bottom: 319px solid papayawhip;
+    border-right: 219px solid transparent;
+    border-left: 219px solid transparent;
+    left: 3%;
+    top: 11%;
+    position: fixed;
+    z-index: -10;
+}
+
+#circle2 {
+    height: 0px;
+    width: 0px;
+    border-top: 520px solid rgb(217, 236, 173);
+    border-right: 420px solid transparent;
+    border-left: 420px solid transparent;
+    left: 53%;
+    top: -10%;
+    position: fixed;
+    z-index: -1;
+}
+
+#circle3 {
+    height: 0px;
+    width: 0px;
+    border-top: 250px solid transparent;
+    border-left: 390px solid rgb(180, 187, 245);
+    border-bottom: 250px solid transparent;
+    left: 9%;
+    top: 83%;
+    position: fixed;
+    z-index: -2;
+}
+#circle4{
+    height: 0px;
+    width: 0px;
+    border-right: 399px solid papayawhip;
+    border-top: 309px solid transparent;
+    border-left: 309px solid transparent;
+    left: 16%;
+    top: 60%;
+    position: fixed;
+    z-index: -3;
+    margin-bottom: 300px;
+}
+
+#circle5{
+    height: 0px;
+    width: 0px;
+    border-bottom: 219px solid rgb(138, 174, 240);
+    border-right: 159px solid transparent;
+    border-left: 159px solid transparent;
+    left: 91%;
+    top: 65%;
+    position: fixed;
+    z-index: -3;
+    margin-bottom: 300px;
+}
+h2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: cornflowerblue;
+    position: absolute;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+a{
+    color: cornflowerblue;
+  font-style: italic;
+}
+
+#header2-1{
+    margin-left: 4.5%;
+    margin-right: 10px;
+    margin-top: 12px;
+    margin-bottom: 43px;
+    margin-top: -5px;
+}
+body {
+    background-image: linear-gradient(to right, pink, papayawhip);
+}
+p {
+    
+    margin-right: 10px;
+    color: rgb(32, 57, 141);
+    font-weight: normal;
+    text-transform: none; 
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-size: small;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#p1{
+    position: relative;
+    top: 14px;
+    left: 5%;
+    width: 90%;
+}
+#p2{
+    position: relative;
+    top: 14px;
+    left: 5%;
+    width: 90%;
+}
+
+.img1{
+    position: relative;
+    left: 5%;
+
+}
+img{
+    border: 7px  rgb(217, 236, 173);
+    border-style: solid;
+}
+
+#p3{
+    position: relative;
+    top: 14px;
+    left: 5%;
+    width: 90%;
+}
+
+.img2{
+    position: relative;
+    left: 5%;
+
+}
+#p4{
+    position: relative;
+    top: 14px;
+    left: 5%;
+    width: 90%;
+}
+.img3{
+    position: relative;
+    left: 5%;
+
+}
+#p5{
+    position: relative;
+    top: 14px;
+    left: 5%;
+    width: 90%;
+}
+.img4{
+    position: relative;
+    left: 5%;
+
+}
+#p6{
+    position: relative;
+    top: 14px;
+    left: 5%;
+    width: 90%;
+    margin-bottom: 50px;
+}
